@@ -1,0 +1,2 @@
+Thread 1: Xin chao toi la thread 1
+Thread 2: Xin chao toi la thread 2
